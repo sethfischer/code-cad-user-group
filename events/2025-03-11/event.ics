@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Python New Zealand - Online Events
+X-WR-CALNAME:Python New Zealand - Online Events
+BEGIN:VTIMEZONE
+TZID:Pacific/Auckland
+TZURL:http://tzurl.org/zoneinfo-outlook/Pacific/Auckland
+X-LIC-LOCATION:Pacific/Auckland
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+1200
+TZOFFSETTO:+1300
+TZNAME:NZDT
+DTSTART:19700927T020000
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+1300
+TZOFFSETTO:+1200
+TZNAME:NZST
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_306522595@meetup.com
+SEQUENCE:1
+DTSTAMP:20250307T023516Z
+DTSTART;TZID=Pacific/Auckland:20250311T121500
+DTEND;TZID=Pacific/Auckland:20250311T131500
+SUMMARY:Code CAD User Group
+DESCRIPTION:Python New Zealand - Online Events\nA group for discussion of
+ programmatic CAD and related technologies.\n\nExamples of programmatic CAD
+  Python libraries are:\n\n* [CadQuery](https://cadquery.readthedocs.io/en/
+ latest/)\, and\n* [build123d](https://build123d.readthedocs.io/en/latest/)
+  parametric 3D CAD libraries.\n* The [Atopile](https://docs.atopile.io/lat
+ est/) toolchain for defining electronic circuits as code.\n\nCome to find
+ out more about Code CAD and discuss your projects with\nlike-minded people
+ .
+URL;VALUE=URI:https://www.meetup.com/pythonnz-online/events/306522595/
+STATUS:CONFIRMED
+CREATED:20250303T211229Z
+LAST-MODIFIED:20250303T211229Z
+CLASS:PUBLIC
+END:VEVENT
+X-ORIGINAL-URL:https://www.meetup.com/pythonnz-online/events/ical/Python+N
+ ew Zealand - Online Events.ics
+X-WR-CALNAME:Python New Zealand - Online Events
+END:VCALENDAR
