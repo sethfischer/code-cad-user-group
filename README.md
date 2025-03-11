@@ -5,11 +5,9 @@ Part of the [Python New Zealand - Online Events](https://www.meetup.com/pythonnz
 
 ## Next event
 
-🕛 **Tuesday, March 11, 2025**  
-12:15 PM to 1:15 PM NZDT
+Watch this space
 
-**The inaugural Code CAD User Group meeting**
 
-* 📹 Online event
-* 📅 [ical](https://www.meetup.com/pythonnz-online/events/306522595/ical/Code+CAD+User+Group.ics)
-* [meetup.com event page](https://www.meetup.com/pythonnz-online/events/306522595/)
+## Past events
+
+* [2025-03-11](events/2025-03-11/) The inaugural Code CAD User Group meeting.
