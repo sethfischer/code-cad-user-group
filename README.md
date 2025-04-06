@@ -5,7 +5,14 @@ Part of the [Python New Zealand - Online Events](https://www.meetup.com/pythonnz
 
 ## Next event
 
-Watch this space
+🕛 **Tuesday, April 8, 2025**  
+12:15 PM to 1:15 PM NZDT
+
+**An introduction to Build123d with Roger Maitland**
+
+* 📹 Online event
+* 📅 [ical](https://www.meetup.com/pythonnz-online/events/306948657/ical/Code+CAD+User+Group.ics)
+* [meetup.com event page](https://www.meetup.com/pythonnz-online/events/306948657/)
 
 
 ## Past events
